@@ -7,10 +7,10 @@ Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content 
 
 ### Steve Gabriel
 
-Steve was one of the first Revenue Anlysts at Jetstar Airways. 
+Steve is a consultant with a background in Statistics and Analytics. 
 
 * Jetstar began commercial operations as a doemstic low-cost carrier in 2004.
-* The airline was started as low fares offshoot of Qantas (QAN:AX), which is one of the oldest commercial passenger airlines. 
+* The airline was started as low fares offshoot of Qantas (QAN:AX), which commenced operations in 1921. 
 * Easily scalable text and component sizing with `rem` units in the CSS
 * Support for a wide gamut of HTML elements
 * Related posts (time-based, because Jekyll) below each post
