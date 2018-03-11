@@ -3,7 +3,7 @@ layout: post
 title: Air Travel
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+A short article [Qantas maturing fleet](http://rpubs.com/steve_g/368567) discusses economic and safety issues related to the aircraft fleet age. Qantas is compared to the other airlines in the top 20, in terms of international passengers carried. In addition, the main U.S. carriers are compared.
 
 ### Steve Gabriel
 
