@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Air Travel
 ---
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
-### Built on Poole
+### Steve Gabriel
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+Steve was one of the first Revenue Anlysts at Jetstar Airways. 
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
+* Jetstar began commercial operations as a doemstic low-cost carrier in 2004.
+* The airline was started as low fares offshoot of Qantas (QAN:AX), which is one of the oldest commercial passenger airlines. 
 * Easily scalable text and component sizing with `rem` units in the CSS
 * Support for a wide gamut of HTML elements
 * Related posts (time-based, because Jekyll) below each post
