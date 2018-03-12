@@ -3,7 +3,7 @@ layout: post
 title: Qantas' fleet
 ---
 
-There was a focus recently on Qantas fleet's age, after its impressive profit result was announced in late February. The article [Qantas' maturing fleet](http://rpubs.com/steve_g/368567) compares the Qantas and Jetstar fleets' ages, against the other major regional international airlines. In addition, the main U.S. carriers are compared, to get a wider context.
+There was a focus recently on the Qantas fleet's age, after its impressive profit result was announced in late February. The article [Qantas' maturing fleet](http://rpubs.com/steve_g/368567) compares the Qantas and Jetstar fleets' ages, against the other major regional international airlines. In addition, the main U.S. carriers are compared, to get a wider context.
 
 * Jetstar began commercial operations as a domestic low-cost carrier in 2004.
 * The airline was started as a low fares offshoot of Qantas, which was founded in Queensland, Australia in 1920.
