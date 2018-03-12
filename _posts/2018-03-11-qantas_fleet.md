@@ -11,4 +11,4 @@ Steve is a consultant with a background in Statistics and Analytics, and was a R
 
 * Jetstar began commercial operations as a domestic low-cost carrier in 2004.
 * The airline was started as a low fares offshoot of Qantas, which was founded in Queensland, Australia in 1920.
-* Qantas was first listed on the Australian Stock Exchange in 1995. The airline now has a fleet of 123, and Jetstar a fleet of 71, according to airlfleets.com as at 12 March 2018.
+* Qantas was first listed on the Australian Stock Exchange in 1995. The company now has a fleet of 123 in the Qantas flagship fleet, and Jetstar's Australian fleet numbers 71, according to airlfleets.com as at 12 March 2018.
