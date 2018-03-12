@@ -3,7 +3,7 @@ layout: post
 title: Qantas' fleet
 ---
 
-There was a focus last week on Qantas fleet's age, after its impressive profit result was announced. [Qantas maturing fleet](http://rpubs.com/steve_g/368567) compares the Qantas and Jetstar fleets to the other top 20 airlines in terms of international passengers carried, to and from Australia. In addition, the main U.S. carriers are compared, to get a wider context.
+There was a focus last week on Qantas fleet's age, after its impressive profit result was announced. The article [Qantas maturing fleet](http://rpubs.com/steve_g/368567) compares the Qantas and Jetstar fleets to the other top 20 airlines in terms of international passengers carried, to and from Australia. In addition, the main U.S. carriers are compared, to get a wider context.
 
 ### Steve Gabriel
 
